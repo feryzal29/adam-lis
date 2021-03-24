@@ -1,0 +1,87 @@
+{
+  "no_registrasi": "2020/12/23/000040",
+  "no_laboratorium": "202012230008",
+  "waktu_registrasi": "2020-12-23 11:15:53",
+  "umur": {
+    "tahun": 55,
+    "bulan": 11,
+    "hari": 11
+  },
+  "pasien": {
+    "alamat": "KETAPANG LOR 2/4",
+    "nama_pasien": "NURHAYATI, NY",
+    "no_rm": "057698",
+    "jenis_kelamin": "P",
+    "tanggal_lahir": "1965-01-12",
+    "no_telphone": "081357553491"
+  },
+  "dokter_pengirim": {
+    "kode": "3578246803820001",
+    "nama": "dr .Hesti Ismarini, Sp. PD"
+  },
+  "unit_asal": {
+    "kode": "PD",
+    "nama": "Poli Penyakit Dalam"
+  },
+  "penjamin": {
+    "nama": "BPJS",
+    "kode": "BPJ"
+  },
+  "diagnosa_awal": "-",
+  "pemeriksaan": [
+    {
+      "kategori_pemeriksaan": {
+        "nama_kategori": "KIMIA KLINIK",
+        "nomor_urut": 2
+      },
+      "sub_kategori_pemeriksaan": {
+        "nama_sub_kategori": "Glukosa Darah",
+        "nomor_urut": 1
+      },
+      "nomor_urut": 2002,
+      "kode_pemeriksaan": "GDP",
+      "nama_pemeriksaan": "Glukosa Darah Puasa",
+      "metode": "Oksidasi",
+      "hasil": {
+        "satuan": "mg/dl",
+        "nilai_hasil": "23",
+        "nilai_rujukan": "70 - 125",
+        "waktu_pemeriksaan_di_isi": "2020-12-23 13:23:56",
+        "waktu_verifikasi": "2020-12-23 13:25:17",
+        "keterangan": null,
+        "jenis_input": "A",
+        "flag_nama": null,
+        "flag_kode": null,
+        "flag_warna": null,
+        "flag_jenis_pewarnaan": null
+      }
+    },
+    {
+      "kategori_pemeriksaan": {
+        "nama_kategori": "KIMIA KLINIK",
+        "nomor_urut": 2
+      },
+      "sub_kategori_pemeriksaan": {
+        "nama_sub_kategori": "Glukosa Darah",
+        "nomor_urut": 1
+      },
+      "nomor_urut": 2003,
+      "kode_pemeriksaan": "GD2PP",
+      "nama_pemeriksaan": "Glukosa Darah 2 Jam PP",
+      "metode": "Oksidasi",
+      "hasil": {
+        "satuan": "mg/dl",
+        "nilai_hasil": "25",
+        "nilai_rujukan": "70 - 125",
+        "waktu_pemeriksaan_di_isi": "2020-12-23 13:23:56",
+        "waktu_verifikasi": "2020-12-23 13:25:17",
+        "keterangan": null,
+        "jenis_input": "A",
+        "flag_nama": null,
+        "flag_kode": null,
+        "flag_warna": null,
+        "flag_jenis_pewarnaan": null
+      }
+    }
+  ]
+}
